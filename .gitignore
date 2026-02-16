@@ -1,0 +1,39 @@
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== ROS 2 (colcon) =====
+**/build/
+**/install/
+**/log/
+
+# ===== PlatformIO / ESP32 =====
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.log
+
+# ===== MATLAB =====
+*.asv
+*.m~
+slprj/
+*.slxc
+
+# ===== Large data / images (keep out of main repo) =====
+SNAPSHOTS/
+patrones/SNAPSHOTS/
+*.bag
+*.db3
+*.mp4
+*.mov
+*.zip
+*.7z
