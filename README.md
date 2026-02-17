@@ -12,7 +12,7 @@ It integrates:
 
 ---
 
-## ✨ What’s inside
+##  What’s inside
 
 ### 1) `CSV_ROBOT/` — Selected experimental logs (5 trials)
 The robot collects sensor and control data during field trials.  
@@ -60,7 +60,7 @@ Key components include:
 
 ---
 
-## 🧠 Leaf-disease model (Neural Network) — Distributed via Releases
+##  Leaf-disease model (Neural Network) — Distributed via Releases
 The **neural network model/weights** are provided as a **GitHub Release asset** to keep the repository lightweight.
 
 Inside the `patrones` pipeline you will find:
@@ -78,7 +78,7 @@ Inside the `patrones` pipeline you will find:
 
 ---
 
-## 📁 Repository structure (high level)
+##  Repository structure (high level)
 
 ```text
 Robot-el-chino-de-los-mandados/
