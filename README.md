@@ -13,11 +13,11 @@ It integrates:
 ---
 
 ##   Pictures
-![Robot overview](Others/imagen1.jpeg)
+![Robot field](Others/imagen1.jpeg)
 ![Robot draw](Others/Dibujo1.PNG)
 ---
 ##   Video
-
+![Robot video](Others/Video.mp4)
 ---
 ##  What’s inside
 
