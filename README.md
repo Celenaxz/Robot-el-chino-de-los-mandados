@@ -14,7 +14,7 @@ It integrates:
 
 ##   Pictures
 ![Robot overview](Others/imagen1.jpeg)
-![Robot draw](Others/Dibujo1.jpeg)
+![Robot draw](Others/Dibujo1.PNG)
 ---
 ##   Video
 
