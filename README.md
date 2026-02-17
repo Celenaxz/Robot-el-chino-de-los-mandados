@@ -12,10 +12,13 @@ It integrates:
 
 ---
 
-##  Field Pictures
+##   Pictures
 ![Robot overview](Others/imagen1.jpeg)
-![Robot overview](Others/Dibujo1.jpeg)
+![Robot draw](Others/Dibujo1.jpeg)
+---
+##   Video
 
+---
 ##  What’s inside
 
 ### 1) `CSV_ROBOT/` — Selected experimental logs (5 trials)
