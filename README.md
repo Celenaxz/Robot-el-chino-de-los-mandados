@@ -69,10 +69,10 @@ Inside the `patrones` pipeline you will find:
   - **Two CSV files per trial** (normalized and non-normalized),
   - Plots/figures summarizing detected disease patterns.
 
-### How to get the model
-1. Go to **Releases** in this repository.
-2. Download the model asset (e.g., `.zip` / `.onnx` / `.h5` / `.pt`).
-3. Place it in the path expected by your `patrones` inference scripts.
+##  Leaf-disease model (Neural Network)
+The neural-network model/weights are **provided via GitHub Releases** for this repository.
+
+---
 
 > If needed, create a small `MODEL_PATH` variable in the script or a `config.yaml` to point to the downloaded file.
 
