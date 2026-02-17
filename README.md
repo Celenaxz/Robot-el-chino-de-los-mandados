@@ -13,7 +13,7 @@ It integrates:
 ---
 
 ##  Field Pictures
-![Robot overview](docs/Others/imagen1.jpg)
+![Robot overview](Others/imagen1.jpg)
 ![Robot overview](docs/Others/Dibujo1.jpg)
 
 ##  What’s inside
